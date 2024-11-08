@@ -106,7 +106,7 @@
               <div class="px-5 pt-5 pb-6">
                 <div class="flex items-center justify-between">
                   <div>
-                    <img class="w-auto h-12" src="/logo.svg" alt="Gear Law">
+                    <img class="w-auto h-12" src="/logo.png" alt="Southeastern Rheumatology">
                   </div>
                   <div class="-mr-2">
                     <button type="button" class="inline-flex items-center justify-center p-2 text-gray-400 bg-white rounded-md hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-teal-500" @click.prevent="mobileOpen = false">
