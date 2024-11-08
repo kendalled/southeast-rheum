@@ -106,7 +106,7 @@
               <div class="px-5 pt-5 pb-6">
                 <div class="flex items-center justify-between">
                   <div>
-                    <img class="w-auto h-12" src="/logo.png" alt="Southeastern Rheumatology">
+                    <img class="w-auto h-20" src="/logo.png" alt="Southeastern Rheumatology">
                   </div>
                   <div class="-mr-2">
                     <button type="button" class="inline-flex items-center justify-center p-2 text-gray-400 bg-white rounded-md hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-teal-500" @click.prevent="mobileOpen = false">
@@ -127,7 +127,7 @@
                 </div>
                 <div class="mt-6">
                   <nav class="grid gap-y-8">
-                    <nuxt-link to="/services/personal-injury" title="Personal Injury Law" class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50">
+                    <nuxt-link to="/services/personal-injury" title="Our Specialists" class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50">
                       <!-- Heroicon name: outline/chart-bar -->
                       <svg
                         class="flex-shrink-0 w-6 h-6 text-teal-600"
@@ -142,7 +142,7 @@
                       <span class="ml-3 text-base font-medium text-gray-900"> Personal Injury </span>
                     </nuxt-link>
 
-                    <nuxt-link to="/services/business-law" title="Business Law" class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50">
+                    <nuxt-link to="/services/business-law" title="Diganosis & Treatment" class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50">
                       <!-- Heroicon name: outline/cursor-click -->
                       <svg
                         class="flex-shrink-0 w-6 h-6 text-teal-600"
@@ -157,7 +157,7 @@
                       <span class="ml-3 text-base font-medium text-gray-900"> Business Law </span>
                     </nuxt-link>
 
-                    <nuxt-link to="/services/family-law" title="Family Law" class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50">
+                    <nuxt-link to="/services/family-law" title="Our Locations" class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50">
                       <!-- Heroicon name: outline/shield-check -->
                       <svg
                         class="flex-shrink-0 w-6 h-6 text-teal-600"
@@ -172,7 +172,7 @@
                       <span class="ml-3 text-base font-medium text-gray-900"> Family Law </span>
                     </nuxt-link>
 
-                    <nuxt-link to="/services/criminal-law" title="Criminal Law" class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50">
+                    <nuxt-link to="/services/criminal-law" title="Contact Us" class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50">
                       <!-- Heroicon name: outline/view-grid -->
                       <svg
                         class="flex-shrink-0 w-6 h-6 text-teal-600"
