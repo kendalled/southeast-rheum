@@ -9,7 +9,7 @@
               <!-- todo: more elegant solution? -->
               <nuxt-link to="/" title="Home page" class="mr-24">
                 <span class="sr-only">Gear Law</span>
-                <img class="absolute w-auto h-12 top-3 md:h-12 lg:h-16" src="/logo.svg" alt="">
+                <img class="absolute w-auto h-12 -top-2 md:h-12 lg:h-28 lg:left-[18rem]" src="/logo.png" alt="">
               </nuxt-link>
               <nav class="hidden space-x-10 lg:flex">
                 <nuxt-link to="/attorneys" title="Our Attorneys" class="text-base font-medium text-gray-500 lg:ml-14 hover:text-gray-900">
@@ -21,38 +21,38 @@
                     <span>Services</span>
                     <!--
                     Heroicon name: solid/chevron-down
-  
+
                     Item active: "text-gray-600", Item inactive: "text-gray-400"
                   -->
                     <svg class="w-5 h-5 ml-2 text-gray-400 group-hover:text-gray-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                       <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
                     </svg>
                   </button>
-  
+
                   <!--
                   'Services' flyout menu, show/hide based on flyout menu state.
                   -->
                   <ServicesOpen :open="servicesOpen" @close="servicesOpen = false" />
                 </div>
                 <a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900"> Results </a>
-  
+
                 <div class="relative">
                   <!-- Item active: "text-gray-900", Item inactive: "text-gray-500" -->
                   <button type="button" class="inline-flex items-center text-base font-medium text-gray-500 bg-white rounded-md group hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-500" aria-expanded="false" @click.prevent="moreOpen = true">
                     <span>About</span>
                     <!--
                   Heroicon name: solid/chevron-down
-  
+
                   Item active: "text-gray-600", Item inactive: "text-gray-400"
                 -->
                     <svg class="w-5 h-5 ml-2 text-gray-400 group-hover:text-gray-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                       <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
                     </svg>
                   </button>
-  
+
                   <!--
                 'More' flyout menu, show/hide based on flyout menu state.
-  
+
                 Entering: "transition ease-out duration-200"
                   From: "opacity-0 translate-y-1"
                   To: "opacity-100 translate-y-0"
@@ -89,7 +89,7 @@
             </div>
           </div>
         </div>
-  
+
         <!--
         Mobile menu, show/hide based on mobile menu state.
         -->
@@ -141,7 +141,7 @@
                       </svg>
                       <span class="ml-3 text-base font-medium text-gray-900"> Personal Injury </span>
                     </nuxt-link>
-  
+
                     <nuxt-link to="/services/business-law" title="Business Law" class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50">
                       <!-- Heroicon name: outline/cursor-click -->
                       <svg
@@ -156,7 +156,7 @@
                       </svg>
                       <span class="ml-3 text-base font-medium text-gray-900"> Business Law </span>
                     </nuxt-link>
-  
+
                     <nuxt-link to="/services/family-law" title="Family Law" class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50">
                       <!-- Heroicon name: outline/shield-check -->
                       <svg
@@ -171,7 +171,7 @@
                       </svg>
                       <span class="ml-3 text-base font-medium text-gray-900"> Family Law </span>
                     </nuxt-link>
-  
+
                     <nuxt-link to="/services/criminal-law" title="Criminal Law" class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50">
                       <!-- Heroicon name: outline/view-grid -->
                       <svg
@@ -194,15 +194,15 @@
                   <nuxt-link to="/attorneys" title="Our Attorneys" class="text-base font-medium text-gray-900 hover:text-gray-700">
                     Attorneys
                   </nuxt-link>
-  
+
                   <a href="#" class="text-base font-medium text-gray-900 hover:text-gray-700"> Results </a>
-  
+
                   <a href="#" class="text-base font-medium text-gray-900 hover:text-gray-700"> Help Center </a>
-  
+
                   <a href="#" class="text-base font-medium text-gray-900 hover:text-gray-700"> Guides </a>
-  
+
                   <a href="#" class="text-base font-medium text-gray-900 hover:text-gray-700"> Events </a>
-  
+
                   <a href="#" class="text-base font-medium text-gray-900 hover:text-gray-700"> Security </a>
                 </div>
                 <div>
@@ -221,7 +221,7 @@
       </div>
     </div>
   </template>
-  
+
   <script>
   export default {
     name: 'NewNav',
@@ -234,4 +234,4 @@
     }
   }
   </script>
-s  
+s

@@ -14,11 +14,11 @@
             <div class="absolute inset-0 bg-gradient-to-r from-teal-600 to-teal-900 mix-blend-multiply" />
           </div>
           <div class="relative px-4 py-16 mx-auto max-w-7xl sm:px-6 sm:py-24 lg:py-48 lg:px-8">
-            <h1 class="text-4xl font-bold text-left sm:tracking-wide sm:text-5xl lg:text-6xl">
+            <h1 class="text-4xl font-bold text-left sm:tacking-normal sm:text-5xl lg:text-6xl">
               <span class="block text-white">Speak to a doctor</span>
               <span class="block text-teal-200">within one hour.</span>
             </h1>
-            <p class="mt-6 mr-auto text-xl text-left text-teal-200 max-w-7xl sm:max-w-2xl">
+            <p class="mt-6 mr-auto text-xl text-left text-teal-50 max-w-7xl sm:max-w-2xl">
               Serving the greater Orlando area for over two decades has allowed us to excel in injury law, family law, criminal law, &amp; more. Meet our team of experienced attorneys and schedule a free consultation today.
             </p>
             <div class="max-w-sm mx-auto mt-10 sm:max-w-none sm:flex sm:justify-center">
@@ -36,10 +36,9 @@
       </div>
     </div>
   </template>
-  
+
   <script>
   export default {
     name: 'HeroSection'
   }
   </script>
-  
