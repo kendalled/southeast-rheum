@@ -9,7 +9,7 @@
               <!-- todo: more elegant solution? -->
               <nuxt-link to="/" title="Home page" class="mr-24">
                 <span class="sr-only">Gear Law</span>
-                <img class="absolute w-auto h-12 -top-2 md:h-12 lg:h-28 lg:left-[18rem]" src="/logo.png" alt="">
+                <img class="absolute w-auto h-20 -top-1 left-0 md:-top-2 md:h-12 lg:h-28 lg:left-40" src="/logo.png" alt="">
               </nuxt-link>
               <nav class="hidden space-x-10 lg:flex">
                 <nuxt-link to="/attorneys" title="Our Attorneys" class="text-base font-medium text-gray-500 lg:ml-14 hover:text-gray-900">
