@@ -68,32 +68,10 @@
               </svg>
               <div class="ml-4">
                 <p class="text-base font-medium text-gray-900">
-                  Family Law
+                  Lupus Treatment
                 </p>
                 <p class="mt-1 text-sm text-gray-500">
-                  Tackle divorce settlements or interpersonal issues with ease.
-                </p>
-              </div>
-            </nuxt-link>
-  
-            <nuxt-link to="/services/criminal-law" title="Criminal Law" class="flex items-start p-3 -m-3 rounded-lg hover:bg-gray-50">
-              <!-- Heroicon name: outline/view-grid -->
-              <svg
-                class="flex-shrink-0 w-6 h-6 text-teal-600"
-                xmlns="http://www.w3.org/2000/svg"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-                aria-hidden="true"
-              >
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z" />
-              </svg>
-              <div class="ml-4">
-                <p class="text-base font-medium text-gray-900">
-                  Criminal Law
-                </p>
-                <p class="mt-1 text-sm text-gray-500">
-                  We fight for each client as if they're family.
+                  As one of the most common autoimmune diseases, we are experts at diagnosing and treating lupus.
                 </p>
               </div>
             </nuxt-link>
@@ -158,7 +136,7 @@
   </template>
   
   <script>
-  import vClickOutside from 'v-click-outside'
+  import vClickOutside from 'click-outside-vue3'
   export default {
     directives: {
       clickOutside: vClickOutside.directive

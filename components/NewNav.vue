@@ -5,15 +5,15 @@
       <div class="relative bg-white border-b border-gray-200">
         <div class="px-4 mx-auto max-w-7xl sm:px-6">
           <div class="flex items-center justify-between py-6 lg:justify-start lg:space-x-10">
-            <div class="flex justify-start lg:w-0 lg:flex-1">
+            <div class="flex justify-start lg:w-0 lg:flex-1 relative">
               <!-- todo: more elegant solution? -->
               <nuxt-link to="/" title="Home page" class="mr-24">
-                <span class="sr-only">Gear Law</span>
-                <img class="absolute w-auto h-20 -top-1 left-0 md:-top-2 md:h-12 lg:h-28 lg:left-[18rem]" src="/logo.png" alt="">
+                <span class="sr-only">Southeast Rheumatology</span>
+                <img class="absolute w-auto h-20 -left-6 -top-10 lg:h-28 lg:-top-[2.6rem]" src="/logo.png" alt="">
               </nuxt-link>
               <nav class="hidden space-x-10 lg:flex">
-                <nuxt-link to="/attorneys" title="Our Attorneys" class="text-base font-medium text-gray-500 lg:ml-14 hover:text-gray-900">
-                  Attorneys
+                <nuxt-link to="/doctors" title="Our Doctors" class="text-base font-medium text-gray-500 lg:ml-14 hover:text-gray-900">
+                  Our Doctors
                 </nuxt-link>
                 <div class="relative">
                   <!-- Item active: "text-gray-900", Item inactive: "text-gray-500" -->
@@ -191,8 +191,8 @@
               </div>
               <div class="px-5 py-6 space-y-6">
                 <div class="grid grid-cols-2 gap-y-4 gap-x-8">
-                  <nuxt-link to="/attorneys" title="Our Attorneys" class="text-base font-medium text-gray-900 hover:text-gray-700">
-                    Attorneys
+                  <nuxt-link to="/doctors" title="Our Doctors" class="text-base font-medium text-gray-900 hover:text-gray-700">
+                    Our Doctors
                   </nuxt-link>
 
                   <a href="#" class="text-base font-medium text-gray-900 hover:text-gray-700"> Results </a>

@@ -15,8 +15,8 @@
           </div>
           <div class="relative px-4 py-16 mx-auto max-w-7xl sm:px-6 sm:py-24 lg:py-48 lg:px-8">
             <h1 class="text-4xl font-bold text-left sm:tacking-normal sm:text-5xl lg:text-6xl">
-              <span class="block text-white">Speak to a doctor</span>
-              <span class="block text-teal-200">within one hour.</span>
+              <span class="block text-white">Rheumatology care</span>
+              <span class="block text-teal-200">made simple.</span>
             </h1>
             <p class="mt-6 mr-auto text-xl text-left text-teal-50 max-w-7xl sm:max-w-2xl">
                 Rheumatology care has never been easier. With over thirty years of combined experience, getting your treatment with us ensures you're in the right hands. Contact us or vist a location to get started in minutes.
