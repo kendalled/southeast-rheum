@@ -127,7 +127,7 @@
                 </div>
                 <div class="mt-6">
                   <nav class="grid gap-y-8">
-                    <nuxt-link to="/services/personal-injury" title="Our Specialists" class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50">
+                    <nuxt-link to="/contact" title="Our Specialists" class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50">
                       <!-- Heroicon name: outline/chart-bar -->
                       <svg
                         class="flex-shrink-0 w-6 h-6 text-teal-600"
@@ -142,7 +142,7 @@
                       <span class="ml-3 text-base font-medium text-gray-900"> Scans & Diganosis</span>
                     </nuxt-link>
 
-                    <nuxt-link to="/services/business-law" title="Diganosis & Treatment" class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50">
+                    <nuxt-link to="/contact" title="Diganosis & Treatment" class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50">
                       <!-- Heroicon name: outline/cursor-click -->
                       <svg
                         class="flex-shrink-0 w-6 h-6 text-teal-600"
@@ -157,7 +157,7 @@
                       <span class="ml-3 text-base font-medium text-gray-900"> Lupus Treatment </span>
                     </nuxt-link>
 
-                    <nuxt-link to="/services/family-law" title="Our Locations" class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50">
+                    <nuxt-link to="/contact" title="Our Locations" class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50">
                       <!-- Heroicon name: outline/shield-check -->
                       <svg
                         class="flex-shrink-0 w-6 h-6 text-teal-600"
@@ -172,7 +172,7 @@
                       <span class="ml-3 text-base font-medium text-gray-900"> Our Specialists </span>
                     </nuxt-link>
 
-                    <nuxt-link to="/services/criminal-law" title="Contact Us" class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50">
+                    <nuxt-link to="/contact" title="Contact Us" class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50">
                       <!-- Heroicon name: outline/view-grid -->
                       <svg
                         class="flex-shrink-0 w-6 h-6 text-teal-600"

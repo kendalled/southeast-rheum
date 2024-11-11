@@ -11,7 +11,7 @@
                 We provide a full range of specialized rheumatology services for the diagnosis and treatment of musculoskeletal and autoimmune diseases. At Southeastern Rheumatology Specialists, we offer compassionate, comprehensive care to improve your quality of life and achieve your health goals.
             </p>
           </div>
-          <ServiceCard service1="Bone & Joint" service2="Pain" :link="'/services/personal-injury'" class="mt-6 lg:mt-0">
+          <ServiceCard service1="Bone & Joint" service2="Pain" :link="'/contact'" class="mt-6 lg:mt-0">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               class="w-16 h-16"
@@ -33,7 +33,7 @@
             </svg>
           </ServiceCard>
   
-          <ServiceCard service1="Lupus" service2="Treatment" :link="'/services/family-law'" class="mt-6">
+          <ServiceCard service1="Lupus" service2="Treatment" :link="'/contact'" class="mt-6">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               class="w-16 h-16"
@@ -53,7 +53,7 @@
               <line x1="3" y1="21" x2="22" y2="21" />
             </svg>
           </ServiceCard>
-          <ServiceCard service1="General" service2="Diagnosis" :link="'/services/criminal-law'" class="mt-6">
+          <ServiceCard service1="General" service2="Diagnosis" :link="'/contact'" class="mt-6">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               class="w-16 h-16"
@@ -76,7 +76,7 @@
               <line x1="9" y1="18" x2="9" y2="18.01" />
             </svg>
           </ServiceCard>
-          <ServiceCard service1="Routine" service2="Checkups" :link="'/services/business-law'" class="mt-6">
+          <ServiceCard service1="Routine" service2="Checkups" :link="'/contact'" class="mt-6">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               class="w-16 h-16"
