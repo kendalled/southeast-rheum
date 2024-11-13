@@ -19,7 +19,7 @@
               <span class="block text-teal-200">made simple.</span>
             </h1>
             <p class="mt-6 mr-auto text-xl text-left text-teal-50 max-w-7xl sm:max-w-2xl">
-                Rheumatology care has never been easier. With over thirty years of combined experience, getting your treatment with us ensures you're in the right hands. Contact us or vist a location to get started in minutes.
+                Rheumatology care has never been easier. With over thirty years of combined experience, getting your treatment with us ensures you're in the right hands. Contact us or visit a location to get started in minutes.
             </p>
             <div class="max-w-sm mx-auto mt-10 sm:max-w-none sm:flex sm:justify-center">
               <div class="space-y-4 sm:space-y-0 sm:mr-auto sm:inline-grid sm:grid-cols-2 sm:gap-5">
