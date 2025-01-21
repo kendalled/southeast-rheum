@@ -94,8 +94,8 @@
             <rect x="3" y="5" width="18" height="14" rx="2" />
             <polyline points="3 7 12 13 21 7" />
           </svg>
-          <a class="hidden text-sm text-teal-100 md:inline-block hover:text-teal-50" href="mailto:contact@gear.law" target="_blank">contact@gear.law</a>
-          <a v-show="emailOpen" class="inline-block text-sm text-teal-100 md:hidden hover:text-teal-50" href="mailto:contact@gear.law" target="_blank">contact@gear.law</a>
+          <a class="hidden text-sm text-teal-100 md:inline-block hover:text-teal-50" href="mailto:sersclinic@gmail.com" target="_blank">sersclinic@gmail.com</a>
+          <a v-show="emailOpen" class="inline-block text-sm text-teal-100 md:hidden hover:text-teal-50" href="mailto:sersclinic@gmail.com" target="_blank">sersclinic@gmail.com</a>
         </span>
 
         <!-- location -->
@@ -117,8 +117,8 @@
             <circle cx="12" cy="11" r="3" />
             <path d="M17.657 16.657l-4.243 4.243a2 2 0 0 1 -2.827 0l-4.244 -4.243a8 8 0 1 1 11.314 0z" />
           </svg>
-          <a class="hidden text-sm text-teal-100 md:inline-block hover:text-teal-50" href="http://maps.google.com/maps?q=397+Wekiva+Springs+Road+Suite+221,+Longwood,+FL+32779" target="_blank">397 Wekiva Springs Road, Suite 221</a>
-          <a v-show="mapOpen" class="inline-block text-xs text-teal-100 md:hidden hover:text-teal-50" href="http://maps.google.com/maps?q=397+Wekiva+Springs+Road,+Longwood,+FL+32779" target="_blank">397 Wekiva Springs Rd, #221</a>
+          <a class="hidden text-sm text-teal-100 md:inline-block hover:text-teal-50" href="http://maps.google.com/maps?q=397+Wekiva+Springs+Road+Suite+221,+Longwood,+FL+32779" target="_blank">249 Maitland Avenue, Suite 3200</a>
+          <a v-show="mapOpen" class="inline-block text-xs text-teal-100 md:hidden hover:text-teal-50" href="http://maps.google.com/maps?q=397+Wekiva+Springs+Road,+Longwood,+FL+32779" target="_blank">249 Maitland Avenue, #3200</a>
         </span>
       </div>
     </div>
