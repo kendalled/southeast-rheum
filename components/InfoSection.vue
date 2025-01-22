@@ -8,7 +8,7 @@
             No referral? No problem.
           </p>
           <p class="mx-auto mt-5 text-xl text-gray-500 max-w-prose">
-            Our rheumatologists possess the expertise and compassion necessary to guide you through your health journey with confidence and care. Our team is here for you — no matter your concerns.
+            Our rheumatologists possess the expertise and compassion necessary to guide you through your health journey with confidence and care. Our team is here for you, no matter your concerns.
           </p>
         </div>
         <!-- was lg:-mb-80 todo: simplify img classes -->
