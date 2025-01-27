@@ -41,7 +41,7 @@
         </svg>
       </a>
     </div>
-    <p class="mt-10 text-center text-sm/6 text-gray-600">&copy; 2024 Southeastern Rheumatology, Inc. All rights reserved.</p>
+    <p class="mt-10 text-center text-sm/6 text-gray-600">&copy; 2025 Southeastern Rheumatology, Inc. All rights reserved.</p>
   </div>
 </footer>
 </template>
