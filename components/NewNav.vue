@@ -34,7 +34,7 @@
                   -->
                   <ServicesOpen :open="servicesOpen" @close="servicesOpen = false" />
                 </div>
-                <a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900"> Results </a>
+                <nuxt-link to="/about" class="text-base font-medium text-gray-500 hover:text-gray-900"> Results </nuxt-link>
 
                 <div class="relative">
                   <!-- Item active: "text-gray-900", Item inactive: "text-gray-500" -->

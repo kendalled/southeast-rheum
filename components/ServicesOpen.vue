@@ -10,7 +10,7 @@
       <div v-if="isOpen" v-click-outside="vcoConfig" class="absolute z-10 w-screen max-w-md px-2 mt-3 -ml-4 transform sm:px-0 lg:ml-0 lg:left-1/2 lg:-translate-x-1/2">
         <div class="overflow-hidden rounded-lg shadow-lg ring-1 ring-black ring-opacity-5">
           <div class="relative grid gap-6 px-5 py-6 bg-white sm:gap-8 sm:p-8">
-            <nuxt-link to="/contact" title="Personal Injury Law" class="flex items-start p-3 -m-3 rounded-lg hover:bg-gray-50">
+            <nuxt-link to="/content" title="Personal Injury Law" class="flex items-start p-3 -m-3 rounded-lg hover:bg-gray-50">
               <!-- Heroicon name: outline/chart-bar -->
               <svg
                 class="flex-shrink-0 w-6 h-6 text-teal-600"
@@ -32,7 +32,7 @@
               </div>
             </nuxt-link>
   
-            <nuxt-link to="/contact" title="Business Law" class="flex items-start p-3 -m-3 rounded-lg hover:bg-gray-50">
+            <nuxt-link to="/content" title="Business Law" class="flex items-start p-3 -m-3 rounded-lg hover:bg-gray-50">
               <!-- Heroicon name: outline/cursor-click -->
               <svg
                 class="flex-shrink-0 w-6 h-6 text-teal-600"
@@ -54,7 +54,7 @@
               </div>
             </nuxt-link>
   
-            <nuxt-link to="/contact" title="Family Law" class="flex items-start p-3 -m-3 rounded-lg hover:bg-gray-50">
+            <nuxt-link to="/content" title="Family Law" class="flex items-start p-3 -m-3 rounded-lg hover:bg-gray-50">
               <!-- Heroicon name: outline/shield-check -->
               <svg
                 class="flex-shrink-0 w-6 h-6 text-teal-600"
