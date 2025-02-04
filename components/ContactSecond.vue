@@ -40,7 +40,7 @@
               </dl>
               <p class="mt-6 text-base text-teal-300">
                 Concerned about insurance?
-                <nuxt-link to="/used-tables" title="Used and Pre-Owned Pool Tables" class="font-medium text-teal-200 underline">View our FAQ</nuxt-link>.
+                <nuxt-link to="/" title="Link to home page" class="font-medium text-teal-200 underline">View our FAQ</nuxt-link>.
               </p>
             </div>
             <!-- start google maps embed TODO: fix spacing to be uniform -->
