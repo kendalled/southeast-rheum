@@ -15,5 +15,9 @@
     "nuxt": "^3.13.2",
     "vue": "latest",
     "vue-router": "latest"
+  },
+  "devDependencies": {
+    "@nuxt/schema": "^3.17.3",
+    "@nuxt/types": "^2.18.1"
   }
 }
