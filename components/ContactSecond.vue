@@ -15,7 +15,7 @@
                 <div>
                   <dt class="sr-only">Postal address</dt>
                   <dd>
-                    <p>249 Maitland Ave</p>
+                    <p>249 Maitland Ave, Suite 3200</p>
                     <p>Altamonte Springs, FL 32701</p>
                   </dd>
                 </div>
@@ -45,7 +45,11 @@
             </div>
             <!-- start google maps embed TODO: fix spacing to be uniform -->
             <div class="h-auto w-auto bg-teal-900 rounded-md">
-              <iframe class="mt-16 lg:-mb-10 opacity-100 h-96 w-full rounded-md" title="Google Maps Embed" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJGQ6d2spv54gRVU2RIhzlE3A&key=AIzaSyBh8zoTxTInRHEaMjnhRAt8IpNxnoqubbs"></iframe>
+              <div class="mapouter mt-16 lg:-mb-10 w-full">
+                <div class="gmap_canvas w-full">
+                  <iframe class="gmap_iframe rounded-md w-full h-96" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=249 Maitland Ave 3200, Altamonte Springs, Florida, 32701&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
+                </div>
+              </div>
             </div>
             <!-- end google maps embed -->
           </div>
@@ -112,3 +116,21 @@
     </div>
     
     </template>    
+
+<style scoped>
+.mapouter {
+  position: relative;
+  text-align: right;
+  height: 400px;
+}
+
+.gmap_canvas {
+  overflow: hidden;
+  background: none !important;
+  height: 400px;
+}
+
+.gmap_iframe {
+  height: 400px !important;
+}
+</style>    
