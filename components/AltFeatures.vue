@@ -105,9 +105,7 @@
                 Easier than ever to keep up with your appointments. Use our online portal in minutes.
               </h2>
               <p class="mt-4 text-lg text-gray-500">
-                Semper curabitur ullamcorper posuere nunc sed. Ornare iaculis bibendum
-                malesuada faucibus lacinia porttitor. Pulvinar laoreet sagittis viverra duis. In venenatis sem arcu
-                pretium pharetra at. Lectus viverra dui tellus ornare pharetra.
+                Our convenient online patient portal makes managing your care simple and accessible. Schedule appointments, view test results, request prescription refills, and communicate directly with your care team—all from the comfort of your home. Experience seamless healthcare that fits your busy schedule.
               </p>
               <div class="mt-6">
                 <a
