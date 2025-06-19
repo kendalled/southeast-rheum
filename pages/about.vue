@@ -148,28 +148,28 @@
         <div class="mt-6 pt-10">
           <dl class="space-y-10 md:grid md:grid-cols-2 md:grid-rows-2 md:gap-x-8 md:gap-y-12 md:space-y-0">
             <div>
-              <dt class="text-lg font-medium text-slate-900">What&#039;s the best thing about Switzerland?</dt>
-              <dd class="mt-2 text-base text-slate-500">I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.</dd>
+              <dt class="text-lg font-medium text-slate-900">Do I need a referral to see a rheumatologist?</dt>
+              <dd class="mt-2 text-base text-slate-500">While some insurance plans require a referral from your primary care physician, many patients can schedule directly with us. We recommend checking with your insurance provider first, but we're happy to help you navigate the process regardless of your situation.</dd>
             </div>
             <div>
-              <dt class="text-lg font-medium text-slate-900">Why do you never see elephants hiding in trees?</dt>
-              <dd class="mt-2 text-base text-slate-500">Because they&#039;re so good at it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.</dd>
+              <dt class="text-lg font-medium text-slate-900">What conditions do rheumatologists treat?</dt>
+              <dd class="mt-2 text-base text-slate-500">We specialize in autoimmune and inflammatory conditions including rheumatoid arthritis, lupus, osteoarthritis, fibromyalgia, gout, psoriatic arthritis, and other joint, muscle, and connective tissue disorders. We also provide comprehensive diagnostic services for unexplained joint pain.</dd>
             </div>
             <div>
-              <dt class="text-lg font-medium text-slate-900">How do you make holy water?</dt>
-              <dd class="mt-2 text-base text-slate-500">You boil the hell out of it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.</dd>
+              <dt class="text-lg font-medium text-slate-900">How soon can I get an appointment?</dt>
+              <dd class="mt-2 text-base text-slate-500">We understand that joint pain and autoimmune symptoms can significantly impact your daily life. We strive to schedule new patients within 1-2 weeks, with urgent cases often seen sooner. Established patients can typically be seen within a few days for follow-up appointments.</dd>
             </div>
             <div>
-              <dt class="text-lg font-medium text-slate-900">Why can&#039;t you hear a pterodactyl go to the bathroom?</dt>
-              <dd class="mt-2 text-base text-slate-500">Because the pee is silent. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.</dd>
+              <dt class="text-lg font-medium text-slate-900">What should I bring to my first appointment?</dt>
+              <dd class="mt-2 text-base text-slate-500">Please bring a valid photo ID, insurance cards, a list of current medications, any recent lab results or imaging studies, and a summary of your symptoms including when they started and what makes them better or worse. This helps us provide the most effective care.</dd>
             </div>
             <div>
-              <dt class="text-lg font-medium text-slate-900">What do you call someone with no body and no nose?</dt>
-              <dd class="mt-2 text-base text-slate-500">Nobody knows. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.</dd>
+              <dt class="text-lg font-medium text-slate-900">Do you offer same-day lab results?</dt>
+              <dd class="mt-2 text-base text-slate-500">Yes! Our on-site laboratory provides rapid results for most common rheumatology tests, often within hours rather than days. This allows us to adjust treatment plans quickly and provide you with answers during your visit whenever possible.</dd>
             </div>
             <div>
-              <dt class="text-lg font-medium text-slate-900">Why did the invisible man turn down the job offer?</dt>
-              <dd class="mt-2 text-base text-slate-500">He couldn&#039;t see himself doing it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.</dd>
+              <dt class="text-lg font-medium text-slate-900">What insurance plans do you accept?</dt>
+              <dd class="mt-2 text-base text-slate-500">We accept most major insurance plans including Medicare, Medicaid, and most commercial insurers. Our billing team is experienced in rheumatology coverage and can help verify your benefits before your appointment. We also offer payment plans for uninsured patients.</dd>
             </div>
           </dl>
         </div>
